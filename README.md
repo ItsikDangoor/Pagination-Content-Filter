@@ -1,6 +1,6 @@
 # Pagination & Content Filter
 
-https://itsikdangoor.github.io/Pagination-Content-Filter/
+
 
 App main purpose - enhancing the usability of a web page that has too much information by making it easier to find information and read the page.
 - The index.html without JS role shows all the 54 students in a single page without pagination and search bar. 
